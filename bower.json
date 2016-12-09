@@ -1,5 +1,5 @@
 {
-  "name": "seed-element",
+  "name": "fort-title",
   "version": "1.0.0",
   "authors": [
     "Anonymous <anonymous@example.com>"
@@ -8,12 +8,12 @@
   "keywords": [
     "web-component",
     "polymer",
-    "seed"
+    "fort-title"
   ],
   "private": true,
-  "main": "seed-element.html",
+  "main": "fort-title.html",
   "license": "MIT",
-  "homepage": "https://github.com/FortifiElements/seed-element/",
+  "homepage": "https://github.com/FortifiElements/fort-title/",
   "ignore": [
     "/.*",
     "/test/",

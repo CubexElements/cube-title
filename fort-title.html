@@ -1,0 +1,21 @@
+<link rel="import" href="../polymer/polymer.html">
+
+<dom-module id="fort-title">
+  <template>
+    <style>
+      :host {
+        display: block;
+      }
+
+      span {
+        font-weight: bold;
+        font-size: 20px;
+      }
+    </style>
+    <span><slot></slot></span>
+  </template>
+
+  <script>
+    Polymer({is: 'fort-title'});
+  </script>
+</dom-module>
