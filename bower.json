@@ -1,5 +1,5 @@
 {
-  "name": "fort-title",
+  "name": "cube-title",
   "version": "1.0.0",
   "authors": [
     "Anonymous <anonymous@example.com>"
@@ -8,12 +8,12 @@
   "keywords": [
     "web-component",
     "polymer",
-    "fort-title"
+    "cube-title"
   ],
   "private": true,
-  "main": "fort-title.html",
+  "main": "cube-title.html",
   "license": "MIT",
-  "homepage": "https://github.com/FortifiElements/fort-title/",
+  "homepage": "https://github.com/CubexElements/cube-title/",
   "ignore": [
     "/.*",
     "/test/",
